@@ -30,7 +30,7 @@ main {
     width: 800px;
     height: 650px;
     margin: 40px auto auto auto;
-    background-color: white;
+    background-color: #F6F8F9;
 }
 
 /* buttons */
@@ -41,6 +41,7 @@ main {
     border-top-left-radius: 5px;
     border-top-right-radius: 5px;
     padding: 20px;
+    background-color: white;
 }
 
 .add-task {
@@ -65,7 +66,8 @@ main {
 .main-container {
     width: 800px;
     height: 520px;
-    margin-top: 20px;
+    margin-top: 5px;
+    background-color: white;
 }
 
 ul {
