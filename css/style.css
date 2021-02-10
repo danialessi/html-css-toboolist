@@ -30,7 +30,6 @@ h1 {
 /* main */
 main {
     width: 800px;
-    height: 650px;
     margin: 40px auto auto auto;
     background-color: #F6F8F9;
 }
@@ -67,7 +66,6 @@ main {
 
 .main-container {
     width: 800px;
-    height: 520px;
     margin-top: 5px;
     background-color: white;
 }
